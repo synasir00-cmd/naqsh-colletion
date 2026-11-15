@@ -1,0 +1,6 @@
+{
+  "name": "NAQSH COLLECTION",
+  "description": "Complete offline boutique management, POS billing, inventory, accounting, WhatsApp PDF invoicing, and Bluetooth ESC/POS thermal printing for NAQSH COLLECTION.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
